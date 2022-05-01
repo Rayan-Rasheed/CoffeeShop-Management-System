@@ -1,0 +1,7 @@
+E:\OOP\week5\Tesha’s Coffee Shop\Tesha’s Coffee Shop\bin\Debug\Tesha’s Coffee Shop.exe.config
+E:\OOP\week5\Tesha’s Coffee Shop\Tesha’s Coffee Shop\bin\Debug\Tesha’s Coffee Shop.exe
+E:\OOP\week5\Tesha’s Coffee Shop\Tesha’s Coffee Shop\bin\Debug\Tesha’s Coffee Shop.pdb
+E:\OOP\week5\Tesha’s Coffee Shop\Tesha’s Coffee Shop\obj\Debug\Tesha’s Coffee Shop.csproj.AssemblyReference.cache
+E:\OOP\week5\Tesha’s Coffee Shop\Tesha’s Coffee Shop\obj\Debug\Tesha’s Coffee Shop.csproj.CoreCompileInputs.cache
+E:\OOP\week5\Tesha’s Coffee Shop\Tesha’s Coffee Shop\obj\Debug\Tesha’s Coffee Shop.exe
+E:\OOP\week5\Tesha’s Coffee Shop\Tesha’s Coffee Shop\obj\Debug\Tesha’s Coffee Shop.pdb

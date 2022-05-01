@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Tesha_s_Coffee_Shop.BL.CoffeeShop" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ACIQAAACAAAAAAAAAAAAEEACAACAAAAAAQAQAAAgEAA=</HashCode>
+      <FileName>BL\CoffeeShop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tesha_s_Coffee_Shop.BL.MenuItem" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAEAAAABAAAAAAAAAAAAAAAAAAAQAAAAAACAAAAAAQ=</HashCode>
+      <FileName>BL\MenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tesha_s_Coffee_Shop.DL.CoffeShopDL">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAABAAAAAAAAAABAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>DL\CoffeShopDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tesha_s_Coffee_Shop.UI.CoffeeShopUI" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAIAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA=</HashCode>
+      <FileName>UI\CoffeeShopUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tesha_s_Coffee_Shop.BL.MenuItemUI" Collapsed="true">
+    <Position X="10.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\MenuItemUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tesha_s_Coffee_Shop.UI.HelperUI" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\HelperUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

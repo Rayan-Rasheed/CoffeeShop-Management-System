@@ -1,0 +1,2 @@
+Lemonade,Drink,100
+Burger,Food,200
